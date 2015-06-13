@@ -18,3 +18,13 @@ Execute
 ===
 Open a browser and use this URL: http://[servername]:[port]/app/example
 
+An example:
+In a terminal run this
+````
+ php app/console server:run
+````
+Open a browser and type this
+````
+http://127.0.0.1:8000/app/example
+````
+you can use localhost as hostname if preferred
