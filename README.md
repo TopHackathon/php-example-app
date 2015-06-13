@@ -28,3 +28,4 @@ Open a browser and type this
 http://127.0.0.1:8000/app/example
 ````
 you can use localhost as hostname if preferred
+If all goes well, you should see "Homepage."
