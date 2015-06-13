@@ -14,3 +14,7 @@ The pipeline we are going to pursuit is the following:
 5. Rejoice and drink beer
 6. Wash, Rinse, Repeat
 
+Execute
+===
+Open a browser and use this URL: http://[servername]:[port]/app/example
+
