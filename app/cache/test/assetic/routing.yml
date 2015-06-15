@@ -1,5 +1,0 @@
-_assetic:
-    resource: .
-    type: assetic
-_app:
-    resource: /home/jnz/docker_play/php_apache/symfony/my_project/app/config/routing_dev.yml
