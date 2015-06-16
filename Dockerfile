@@ -1,4 +1,4 @@
-FROM top-php-5.6-apache
+FROM tophackathon/php-5.6-apache
 
 EXPOSE 80
 
